@@ -1,6 +1,6 @@
 # stopwatch
 
-A new Flutter project for internship.
+A new Flutter project.
 
 ## Getting Started
 
